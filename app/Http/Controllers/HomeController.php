@@ -14,7 +14,7 @@ class HomeController extends Controller
         $array = [
             1,2,3,4,'a',5
         ];
-        dd($array)
-        return 'test';
+        dd($array);
+        // return 'test';
     }
 }
